@@ -1,0 +1,3 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$structrxcpp_1_1observable_1_1select__combine__latest__cn_3_01_source_00_01_coordination_00_01rxu9483fc288e8f78202fb71f90a165d914.html" title="rxcpp::observable\&lt; T, SourceOperator \&gt;::select_combine_latest_cn\&lt; Source, Coordination, rxu::types\&lt; T0, TN...\&gt;, typename rxu::types_checked_from\&lt; typename Source::value_type, typename TN::value_type..., typename std::result_of\&lt; T0(typename Source::value_type, typename TN::value_type...)\&gt;::type, typename Coordination::coordination_tag, typename TN::observable_tag...\&gt;::type \&gt;" alt="" coords="7,5,2321,35"/>
+</map>

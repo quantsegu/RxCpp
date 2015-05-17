@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$structrxcpp_1_1sources_1_1source__base.html" title="rxcpp::sources::source_base\&lt; marble_type \&gt;" alt="" coords="5,5,291,35"/>
+<area shape="rect" id="node3" href="$structrxcpp_1_1operators_1_1detail_1_1group__by_1_1group__by__observable.html" title="rxcpp::operators::detail::group_by\&lt; T, Observable, KeySelector, MarbleSelector, BinaryPredicate \&gt;::group_by_observable" alt="" coords="340,5,1065,35"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node15" href="$structrxcpp_1_1notifications_1_1detail_1_1notification__base.html" title="rxcpp::notifications::detail::notification_base\&lt; notification_base\&lt; T \&gt; \&gt;" alt="" coords="332,281,761,311"/>
+<area shape="rect" id="node23" href="$structrxcpp_1_1operators_1_1detail_1_1multicast_1_1multicast__state.html" title="rxcpp::operators::detail::multicast\&lt; multicast_state \&gt;::multicast_state" alt="" coords="333,335,760,364"/>
+<area shape="rect" id="node25" href="$structrxcpp_1_1operators_1_1detail_1_1observe__on_1_1observe__on__observer_1_1observe__on__state.html" title="rxcpp::operators::detail::observe_on\&lt; observe_on_state \&gt;::observe_on_observer::observe_on_state" alt="" coords="247,388,847,417"/>
+<area shape="rect" id="node27" href="$structrxcpp_1_1operators_1_1detail_1_1ref__count_1_1ref__count__state.html" title="rxcpp::operators::detail::ref_count\&lt; ref_count_state \&gt;::ref_count_state" alt="" coords="332,441,761,471"/>
+<area shape="rect" id="node29" href="$classrxcpp_1_1schedulers_1_1detail_1_1action__type.html" title="rxcpp::schedulers::detail::action_type\&lt; action_type \&gt;" alt="" coords="381,495,712,524"/>
+<area shape="rect" id="node31" href="$structrxcpp_1_1schedulers_1_1detail_1_1virtual__time__base.html" title="rxcpp::schedulers::detail::virtual_time_base\&lt; virtual_time_base\&lt; Absolute, Relative \&gt; \&gt;" alt="" coords="281,548,812,577"/>
+<area shape="rect" id="node37" href="$classrxcpp_1_1schedulers_1_1scheduler__interface.html" title="rxcpp::schedulers::scheduler_interface\&lt; scheduler_interface \&gt;" alt="" coords="356,655,737,684"/>
+<area shape="rect" id="node51" href="$classrxcpp_1_1schedulers_1_1worker__interface.html" title="rxcpp::schedulers::worker_interface\&lt; worker_interface \&gt;" alt="" coords="372,708,721,737"/>
+<area shape="rect" id="node79" href="$structrxcpp_1_1test_1_1detail_1_1test__subject__base.html" title="rxcpp::test::detail::test_subject_base\&lt; test_subject_base\&lt; T \&gt; \&gt;" alt="" coords="348,1081,745,1111"/>
+<area shape="rect" id="node81" href="$structrxcpp_1_1schedulers_1_1detail_1_1virtual__time__base.html" title="virtual_time_base\&lt; long, long \&gt;" alt="" coords="445,1135,648,1164"/>
+<area shape="rect" id="node33" href="$structrxcpp_1_1schedulers_1_1virtual__time.html" title="rxcpp::schedulers::virtual_time\&lt; Absolute, Relative \&gt;" alt="" coords="952,361,1283,391"/>
+<area shape="rect" id="node39" href="$structrxcpp_1_1schedulers_1_1current__thread.html" title="rxcpp::schedulers::current_thread" alt="" coords="1009,415,1225,444"/>
+<area shape="rect" id="node41" href="$classrxcpp_1_1schedulers_1_1detail_1_1test__type.html" title="rxcpp::schedulers::detail::test_type" alt="" coords="1004,468,1231,497"/>
+<area shape="rect" id="node43" href="$structrxcpp_1_1schedulers_1_1event__loop.html" title="rxcpp::schedulers::event_loop" alt="" coords="1020,521,1215,551"/>
+<area shape="rect" id="node45" href="$structrxcpp_1_1schedulers_1_1immediate.html" title="rxcpp::schedulers::immediate" alt="" coords="1021,575,1213,604"/>
+<area shape="rect" id="node47" href="$structrxcpp_1_1schedulers_1_1new__thread.html" title="rxcpp::schedulers::new_thread" alt="" coords="1017,628,1217,657"/>
+<area shape="rect" id="node49" href="$structrxcpp_1_1schedulers_1_1same__worker.html" title="rxcpp::schedulers::same_worker" alt="" coords="1012,681,1223,711"/>
+<area shape="rect" id="node57" href="$structrxcpp_1_1schedulers_1_1detail_1_1test__type_1_1test__type__worker.html" title="rxcpp::schedulers::detail::test_type::test_type_worker" alt="" coords="951,841,1284,871"/>
+<area shape="rect" id="node83" href="$structrxcpp_1_1schedulers_1_1virtual__time.html" title="rxcpp::schedulers::virtual_time\&lt; long, long \&gt;" alt="" coords="977,1135,1257,1164"/>
+<area shape="rect" id="node85" href="$structrxcpp_1_1schedulers_1_1detail_1_1test__type_1_1test__type__state.html" title="rxcpp::schedulers::detail::test_type::test_type_state" alt="" coords="1364,1135,1687,1164"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classrxcpp_1_1identity__one__worker.html" title="rxcpp::identity_one_worker" alt="" coords="244,5,423,35"/>
+<area shape="rect" id="node5" href="$classrxcpp_1_1observe__on__one__worker.html" title="rxcpp::observe_on_one_worker" alt="" coords="232,59,435,88"/>
+<area shape="rect" id="node7" href="$classrxcpp_1_1serialize__one__worker.html" title="rxcpp::serialize_one_worker" alt="" coords="241,112,425,141"/>
+<area shape="rect" id="node9" href="$classrxcpp_1_1synchronize__in__one__worker.html" title="rxcpp::synchronize_in_one_worker" alt="" coords="223,165,444,195"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classrxcpp_1_1observable.html" title="observable\&lt; T, detail::test_source\&lt; T \&gt; \&gt;" alt="" coords="245,5,509,35"/>
+<area shape="rect" id="node7" href="$classrxcpp_1_1observable.html" title="a source of values. subscribe or use one of the operator methods that return a new observable..." alt="" coords="299,59,456,88"/>
+<area shape="rect" id="node5" href="$classrxcpp_1_1test_1_1testable__observable.html" title="a source of values that records the time of each subscription/unsubscription and all the values and t..." alt="" coords="604,5,844,35"/>
+<area shape="rect" id="node9" href="$classrxcpp_1_1connectable__observable.html" title="a source of values that is shared across all subscribers and does not start until connectable_observa..." alt="" coords="557,59,891,88"/>
+<area shape="rect" id="node11" href="$classrxcpp_1_1grouped__observable.html" title="a source of observables which each emit values from one category specified by the key selector..." alt="" coords="569,112,879,141"/>
+</map>

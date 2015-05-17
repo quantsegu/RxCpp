@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structrxcpp_1_1operators_1_1detail_1_1window__with__time__or__count_1_1window__with__time__or__count__values.html" title="rxcpp::operators::detail::window_with_time_or_count\&lt; T, Duration, Coordination \&gt;::window_with_time_or_count_values" alt="" coords="715,5,1429,35"/>
+<area shape="rect" id="node4" href="$classrxcpp_1_1composite__subscription.html" title="controls lifetime for scheduler::schedule and observable&lt;T, SourceOperator&gt;::subscribe." alt="" coords="973,59,1171,88"/>
+<area shape="rect" id="node6" href="$classrxcpp_1_1detail_1_1composite__subscription__inner.html" title="rxcpp::detail::composite_subscription_inner" alt="" coords="225,5,497,35"/>
+<area shape="rect" id="node8" href="$classrxcpp_1_1subscription.html" title="rxcpp::subscription" alt="" coords="296,59,427,88"/>
+<area shape="rect" id="node10" href="$structrxcpp_1_1subscription__base.html" title="rxcpp::subscription_base" alt="" coords="7,84,172,113"/>
+<area shape="rect" id="node14" href="$structrxcpp_1_1schedulers_1_1worker__base.html" title="rxcpp::schedulers::worker_base" alt="" coords="259,112,464,141"/>
+<area shape="rect" id="node12" href="$classrxcpp_1_1schedulers_1_1worker.html" title="rxcpp::schedulers::worker" alt="" coords="987,112,1157,141"/>
+</map>

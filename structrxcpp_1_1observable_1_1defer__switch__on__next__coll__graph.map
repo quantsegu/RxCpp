@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structrxcpp_1_1defer__observable.html" title="rxcpp::defer_observable\&lt; is_observable\&lt; value_type \&gt;, this_type, rxo::detail::switch_on_next, value_type, observable\&lt; value_type \&gt;, Coordination \&gt;" alt="" coords="831,5,1716,35"/>
+<area shape="rect" id="node4" href="$classdetail_1_1resolve__observable.html" title="detail::resolve_observable\&lt; is_observable\&lt; value_type \&gt;::value, this_type, rxu::defer_type\&lt; rxo::detail::switch_on_next, AN...\&gt; \&gt;" alt="" coords="7,5,780,35"/>
+</map>

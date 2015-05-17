@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classstd_1_1enable__shared__from__this.html" title="std::enable_shared_from_this\&lt; observe_on_state \&gt;" alt="" coords="100,165,420,195"/>
+<area shape="rect" id="node4" href="$classrxcpp_1_1composite__subscription.html" title="controls lifetime for scheduler::schedule and observable&lt;T, SourceOperator&gt;::subscribe." alt="" coords="444,165,641,195"/>
+<area shape="rect" id="node6" href="$classrxcpp_1_1detail_1_1composite__subscription__inner.html" title="rxcpp::detail::composite_subscription_inner" alt="" coords="341,85,613,115"/>
+<area shape="rect" id="node8" href="$classrxcpp_1_1subscription.html" title="rxcpp::subscription" alt="" coords="637,85,768,115"/>
+<area shape="rect" id="node10" href="$structrxcpp_1_1subscription__base.html" title="rxcpp::subscription_base" alt="" coords="620,5,785,35"/>
+</map>
